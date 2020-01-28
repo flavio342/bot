@@ -1,0 +1,11 @@
+Dec 19 2019 12:28:45
+./data/15.csv
+
+|           strategy           |    trades     |  trades_loss  |  trades_gain  | %_trades_gain |  total_gain   |  total_loss   | average_gain  | average_loss  |    balance    |     1_mc      |     2_mc      |     3_mc      |     4_mc      |     5_mc      
+
+
+|         bollinger_50         |      13       |       6       |       7       |    53.85%     |  266.04 pts   |  300.00 pts   |   38.01 pts   |   50.00 pts   |  -33.96 pts   |   R$ -6.79    |   R$ -13.59   |   R$ -20.38   |   R$ -27.17   |   R$ -33.96   
+|          keltner_50          |      10       |       6       |       4       |    40.00%     |  153.99 pts   |  300.00 pts   |   38.50 pts   |   50.00 pts   |  -146.01 pts  |   R$ -29.20   |   R$ -58.40   |   R$ -87.61   |  R$ -116.81   |  R$ -146.01   
+
+| Bollinger_Keltner_wait_50_2  |       5       |       2       |       3       |    60.00%     |  106.06 pts   |  100.00 pts   |   35.35 pts   |   50.00 pts   |   6.06 pts    |    R$ 1.21    |    R$ 2.42    |    R$ 3.63    |    R$ 4.85    |    R$ 6.06    
+| Keltner_Bollinger_wait_50_2  |       5       |       2       |       3       |    60.00%     |  106.90 pts   |  100.00 pts   |   35.63 pts   |   50.00 pts   |   6.90 pts    |    R$ 1.38    |    R$ 2.76    |    R$ 4.14    |    R$ 5.52    |    R$ 6.90    
